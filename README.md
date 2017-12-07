@@ -1,3 +1,3 @@
 # stefanr12.github.io
 My personal website
-Hello Word
+<h1> Hello Word </h1>
